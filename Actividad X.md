@@ -1,4 +1,4 @@
-![Reinicia la página para volver a cargar el imagen](reto3/imagen/router1)
+![Reinicia la página para volver a cargar el imagen](imagen/router1.png)
 
 1. ¿Qué diferencias ves entre un router DSL(el router que nos instala las empresas de red) con un router neutro?
 
