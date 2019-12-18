@@ -7,10 +7,10 @@ Para ello podemos entrar al página de configuración o instalar el programa de 
 Vamos a entrar con el ip del router (por defecto es **192.168.1.1**), o entramos con el dominio del página. Entramos a una página con una vista en general los configuraciones del router.
 ![imagen de configuración del router-1](imagen/conf2.png)
 
-En administración podemos cambiar el idioma de la página.
+En  apartado de **Administración** podemos cambiar el idioma de la página.
 ![imagen de configuración del router-2](imagen/conf3.png)
 
-En configuración podemos cambiar el nombre , ip del router, servidor dhcp, etc. Además disponemos unas **notas de ayuda por parte derecha** que nos ayuda a saber la función de cada opción.
+En configuración podemos cambiar el nombre , ip del router, servidor dhcp, etc. Además disponemos unas **notas de ayuda** por parte derecha que nos ayuda a saber la función de cada opción.
 ![imagen de configuración del router-3](imagen/conf4.png)
 
 El servidor DHCP
