@@ -1,8 +1,10 @@
-## Actividad de configurar un router neutro
+## Configuración un router neutro
 
 Sabiendo los beneficios que nos proporciona un router neutro hemos instalado uno, y vamos a configurar uno.
 
 Para ello podemos entrar al página de configuración o instalar el programa de configuración. Podemos consultar al manual (para saber que programa a instalar) o ver etiqueta que está parte trasera del router (para saber como acceder al página de configuración).
+
+![imagen de configuración del router-0](imagen/conf1.png)
 
 Vamos a entrar con el ip del router (por defecto es **192.168.1.1**), o entramos con el dominio del página. Entramos a una página con una vista en general los configuraciones del router.
 ![imagen de configuración del router-1](imagen/conf2.png)
