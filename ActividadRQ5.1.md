@@ -7,4 +7,4 @@
 
 3. ¿Qué beneficios nos proporciona instalando un router neutro?
 
-[Ir al siguiente actividad](ActividadRQ5.2md)
+[Ir al siguiente actividad](ActividadRQ5.2)
