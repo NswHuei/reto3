@@ -5,9 +5,9 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 1. ¿Con qué interfaz se conecta al lado WAN en un router DSL?¿Y en un router neutro?
 
-2. ¿Se puede tener conexiones al red pública solo con el router neutro?
+2. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Que tipo de router crees que es?
 
-3. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Que tipo de router crees que es?
+3. ¿Se puede tener conexiones al red pública solo con el router neutro?
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
 
