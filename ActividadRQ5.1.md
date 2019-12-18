@@ -3,9 +3,7 @@
 
 Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/foros/internet-telefonia-movil/temas/2930289-router-neutro-que-para-sirve)
 
-1. ¿Qué diferencias ves entre un router DSL(el router que nos instala las empresas de red) con un router neutro?
-
-2. ¿Con qué interfaz se conecta al lado WAN?
+1. ¿Con qué interfaz se conecta al lado WAN en un router DSL?¿Y en un router neutro?
 
 3. ¿Se puede tener conexiones al red pública solo con el router neutro?
 
