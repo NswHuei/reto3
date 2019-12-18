@@ -5,8 +5,8 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 1. ¿Qué diferencias ves entre un router DSL(el router que nos instala las empresas de red) con un router neutro?
 
-2. ¿Con qué interfaces conectamos el router neutro con el router DSL?
+2. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
 
-3. ¿Qué beneficios nos proporciona instalando un router neutro?
+3. ¿Por qué nos interesa instalar un router neutro?
 
 [Ir al siguiente actividad](ActividadRQ5.2.md) | [Volver al Página de inicio](inicio.md)
