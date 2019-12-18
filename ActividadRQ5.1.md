@@ -9,4 +9,4 @@ Si necesitas ayudas puedes consultarlo al este [página](https://www.rankia.com/
 
 3. ¿Qué beneficios nos proporciona instalando un router neutro?
 
-[Ir al siguiente actividad](ActividadRQ5.2) | [Volver al Página de inicio](inicio)
+[Ir al siguiente actividad](ActividadRQ5.2.md) | [Volver al Página de inicio](inicio.md)
