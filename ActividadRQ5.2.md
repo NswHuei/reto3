@@ -24,4 +24,4 @@ Para proteger mejor nuestro WIFI seleccionamos WPA2 PSK con cifrado AES y le pon
 
 Y ya tenemos el router neutro configurado. Además de esos podemos toquetear un poco más para tener un mayor seguridad del red.
 
-[La práctica siguiente](ActividadRQ5.3) | [Volver al práctica anterior](ActividadRQ5.1))
+[La práctica siguiente](ActividadRQ5.3) | [Volver al Página de inicio](inicio)
