@@ -7,7 +7,7 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 2. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Que tipo de router crees que es?
 
-3. ¿Se puede tener conexiones al red pública solo con el router neutro?
+3. ¿Se puede tener conexiones al Internet solamente instalado un router neutro?
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
 
