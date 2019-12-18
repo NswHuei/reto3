@@ -1,4 +1,4 @@
-## Configuración un router neutro
+## Configuración de un router neutro
 
 Sabiendo los beneficios que nos proporciona un router neutro hemos instalado uno, y vamos a configurar uno.
 
