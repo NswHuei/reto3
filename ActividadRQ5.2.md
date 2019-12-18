@@ -4,7 +4,7 @@ Sabiendo los beneficios que nos proporciona un router neutro hemos instalado uno
 
 Para ello podemos entrar al página de configuración o instalar el programa de configuración. Podemos consultar al manual (para saber que programa a instalar) o ver etiqueta que está parte trasera del router (para saber como acceder al página de configuración).
 
-Por defecto el ip del router es **192.168.1.1** y entramos al este página con una vista previa de los configuraciones.
+Por defecto el ip del router es **192.168.1.1** o el dominio del página y entramos al este página con una vista previa de los configuraciones.
 ![imagen de configuración del router-1](imagen/conf2.png)
 
 En administración podemos cambiar el idioma de la página.
