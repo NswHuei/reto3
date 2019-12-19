@@ -16,6 +16,8 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
  * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router DSL
 
 5. ¿Por qué nos interesa instalar un router neutro?
- * 
+ * Nos proporciona un mejor rendimiento del WIFI: mayor cobertura, mayor número de equipos conectado, mayor cache, etc.
+ * Nos permite configurarlo más cerca a nuestro uso(en rl router DSL no hay tanto opción).
+ * Mayor nivel de seguridad, como tiene más opción de configuración podemos configurarlo con más seguridad (requiere un mayor nivel de redes).
 
 [Volver al actividad](ActividadRQ5.1.md)  |  [Ir al siguiente actividad](ActividadRQ5.2.md)  | [Volver al Página de inicio](inicio.md)
