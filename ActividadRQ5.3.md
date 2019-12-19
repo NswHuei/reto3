@@ -3,7 +3,7 @@
 Tras los actividades anteriores ya sabemos la configuración del router ahora vamos a probarlo configurando el router de tu casa. Por ejemplo el tiempo de concesión, el pool, nombre del señal WLAN(ESSID),etc.
 **No cambia los configuraciones** que no sabes para qué sirve, podría causar graves problemas
 
-Este es la página de configuración del router DSL de mi casa.
+### Ejemplo
 ![imagen de configuración del router vodafone1](imagen/vodafone1.png)
 Lleva un resumen de equipos conectados a tu router y con qué método. Además nos permite renombrar los equipos(del resumen) para poder localizar fácilmente.
 
