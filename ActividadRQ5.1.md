@@ -3,7 +3,7 @@
 
 Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/foros/internet-telefonia-movil/temas/2930289-router-neutro-que-para-sirve)
 
-1. ¿Con qué interfaz se conecta al lado WAN en un router DSL?¿Y en un router neutro?
+1. ¿Con qué cable se conecta al interfaz WAN en un router DSL?¿Y en un router neutro?
 
 2. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Que tipo de router crees que es?
 
