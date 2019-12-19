@@ -20,10 +20,10 @@ En configuración podemos cambiar el nombre , ip del router, servidor dhcp, etc.
 El servidor DHCP
 ![imagen de configuración del router-4](imagen/conf5.png)
 
-En el apartado inalámbrico podemos configurar lo como los puntos de accesos. En los router DSL son muy parecidos solo que no nos proporciona tantos opciones.
+En el apartado inalámbrico podemos configurar lo como los puntos de accesos. En los router DSL son muy parecidos solo que no nos proporciona tantos opciones. Tenemos otro práctica de [configurar puntos de accesos]
 ![imagen de configuración del router-5](imagen/conf6.png)
 
-Para proteger mejor nuestro WIFI seleccionamos WPA2 PSK con cifrado AES y le ponemos una clave.
+Para proteger mejor nuestro WIFI seleccionamos WPA2 PSK con cifrado AES y le ponemos una clave. Los diferenters método de seguridad o tipo de cifrado hemos expricado en otro [documento]
 ![imagen de configuración del router-6](imagen/conf7.png)
 
 Y ya tenemos el router neutro configurado. Además de esos podemos toquetear un poco más para tener un mayor seguridad del red.
