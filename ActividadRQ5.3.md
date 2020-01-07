@@ -11,7 +11,10 @@ En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos a
 ![imagen de configuración del router vodafone2](imagen/vodafone2.png)
 Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos tal cual.
 
-En configuración-LAN configuramos el ip del router, y el servidor DHCP(pool, timepo de confeción e IP estático o reservado)
+![imagen de configuración del router vodafone5](imagen/vodafone5.png)
+Nos proporciona dos tipo de cifrado, uno permite el acceso al red solamente los que están en la lista (conectado con WIFI) o no permite el acceso al red los equipos cuyo mac que están en la lista. Con el butón + podemos añadir al lista los equipos conectado al red.
+
+En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, timepo de confeción e IP estático o reservado)
 ![imagen de configuración del router vodafone3](imagen/vodafone3.png)
 Como podeis ver las opciones de configuración son bastante menos que en un router neutro. En un router neutro tenemos un control total de él y en un router DSL solo los que nos permite el comercial.
 ![imagen de configuración del router vodafone4](imagen/vodafone4.png)
