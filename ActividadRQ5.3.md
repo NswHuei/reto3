@@ -7,7 +7,7 @@ Tras los actividades anteriores ya sabemos la configuración del router ahora va
 ![imagen de configuración del router vodafone1](imagen/vodafone1.png)
 Lleva un resumen de equipos conectados a tu router y con qué método. Además nos permite renombrar los equipos(del resumen) para poder localizar fácilmente.
 
-En apartado de WIFI nos permite deshabilitar el 2.4G o 5G y configurarlos cada uno de ellos.
+En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos aparezca más opciones entramos al modo experto(derecha arriba de la página).
 ![imagen de configuración del router vodafone2](imagen/vodafone2.png)
 Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos tal cual.
 
