@@ -1,4 +1,4 @@
-# Este es la página principal
+# Este es un índice temporal para el trabajo
 Para acceder a la página inicio clic [aquí](https://nswhuei.github.io/reto3/inicio)
 
 ## Índice
