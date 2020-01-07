@@ -13,8 +13,9 @@ Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. L
 
 En configuración-LAN configuramos el ip del router, y el servidor DHCP(pool, timepo de confeción e IP estático o reservado)
 ![imagen de configuración del router vodafone3](imagen/vodafone3.png)
-![imagen de configuración del router vodafone4](imagen/vodafone4.png)
 Como podeis ver las opciones de configuración son bastante menos que en un router neutro. En un router neutro tenemos un control total de él y en un router DSL solo los que nos permite el comercial.
+![imagen de configuración del router vodafone4](imagen/vodafone4.png)
+
 Una vez terminado no te olvides salvarlo para aplicar los cambios.
 
 
