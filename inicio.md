@@ -1,4 +1,4 @@
-##Índice
+## Índice
 
 Este es un índice temporal para el trabajo.
 
