@@ -14,8 +14,8 @@ Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. L
 ![imagen de configuración del router vodafone5](imagen/vodafone5.png)
 Nos proporciona dos tipo de filtro que pueden gestionar hasta 32 macs. "Permitir" permite los accesos al red **solamente** los equipos que están en la lista (conectado con WIFI). "Permitir" niega los accesos al red de los equipos cuyo mac que están en la lista. Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
 
-En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, timepo de confeción e IP estático o reservado)
 ![imagen de configuración del router vodafone3](imagen/vodafone3.png)
+En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, timepo de confeción e IP estático o reservado)
 Como podeis ver las opciones de configuración son bastante menos que en un router neutro. En un router neutro tenemos un control total de él y en un router DSL solo los que nos permite el comercial.
 ![imagen de configuración del router vodafone4](imagen/vodafone4.png)
 
