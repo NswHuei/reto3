@@ -12,7 +12,7 @@ En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos a
 Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos en WPA2.
 
 ![imagen de configuración del router vodafone5](imagen/vodafone5.png)
-Nos proporciona dos tipo de filtro que pueden gestionar hasta 32 macs. "Permitir" permite los accesos al red **solamente** los equipos que están en la lista (conectado con WIFI). "Permitir" niega los accesos al red de los equipos cuyo mac que están en la lista. Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
+También podemos añadir un filtro de mac (hasta 16 equipos). "Permitir" permite los accesos al red **solamente** los equipos que están en la lista (conectado con WIFI). "Permitir" niega los accesos al red de los equipos cuyo mac que están en la lista. Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
 
 ![imagen de configuración del router vodafone3](imagen/vodafone3.png)
 En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, timepo de confeción e IP estático o reservado)
