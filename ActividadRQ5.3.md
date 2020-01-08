@@ -9,7 +9,7 @@ Lleva un resumen de equipos conectados a tu router y con qué método. Además n
 
 En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos aparezca más opciones entramos al modo experto(derecha arriba de la página).
 ![imagen de configuración del router vodafone2](imagen/vodafone2.png)
-Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos tal cual.
+Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos en WPA2.
 
 ![imagen de configuración del router vodafone5](imagen/vodafone5.png)
 Nos proporciona dos tipo de cifrado, uno permite el acceso al red solamente los que están en la lista (conectado con WIFI) o no permite el acceso al red los equipos cuyo mac que están en la lista. Con el butón + podemos añadir al lista los equipos conectado al red.
