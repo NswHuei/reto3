@@ -9,7 +9,7 @@ Lleva un resumen de equipos conectados a tu router y con qué método. Además n
 
 En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos aparezca más opciones entramos al modo experto(derecha arriba de la página).
 ![imagen de configuración del router vodafone2](imagen/vodafone2.png)
-Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura]()). El tipo de cifrado lo dejamos en WPA2.
+Es recomendable cambiar el nombre del nombre y la contraseña del señal WIFI. Los canales podemos configurarlo a una canal que no lleva tanto interferencia para mejorar el rendimiento del WIFI (para más información sobre eso consulta al [medir_cobertura](https://serrogard.github.io/Se-al-WiFi/)). El tipo de cifrado lo dejamos en WPA2.
 
 ![imagen de configuración del router vodafone5](imagen/vodafone5.png)
 También podemos añadir un filtro de mac (hasta 16 equipos). "Permitir" permite el acceso al red **solamente** los equipos que están en la lista (conectado con WIFI). "Denegar" no permite el acceso al red de los equipos cuyo mac que están en la lista. Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
