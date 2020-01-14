@@ -1,11 +1,9 @@
 ## Índice
 
-Este es un índice temporal para el trabajo.
+Es un índice temporal para el trabajo.
 
-Para acceder a la página clic [aquí](https://nswhuei.github.io/reto3/inicio)
+[Diferencia entre Routers](ActividadRQ5.1.md)
 
-[Actividad 1](ActividadRQ5.1.md)
+[Configuración de router neutro](ActividadRQ5.2.md)
 
-[Actividad 2](ActividadRQ5.2.md)
-
-[Actividad 3](ActividadRQ5.3.md)
+[Configurar nuestro router](ActividadRQ5.3.md)
