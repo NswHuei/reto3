@@ -3,7 +3,6 @@
 
 Estas son los tipos de cableado de redes que más utilizamos.
 
-Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/foros/internet-telefonia-movil/temas/2930289-router-neutro-que-para-sirve)
 
 1. ¿Con qué cable se conecta al interfaz WAN en un router DSL?¿Y en un router neutro?
  * Con el Cable coaxial. Con el cables RJ45
