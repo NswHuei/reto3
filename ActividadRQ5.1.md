@@ -11,6 +11,6 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
 
-5. ¿Por qué nos interesa instalar un router neutro?
+5. ¿Qué nos mejora instalando un router neutro?Respuesta abierta.
 
 [Ir al siguiente actividad](ActividadRQ5.2.md) | [Respuesta](RespuestaRQ5.1.md) | [Volver al Página de inicio](inicio.md)
