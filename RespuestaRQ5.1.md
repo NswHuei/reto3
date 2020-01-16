@@ -10,7 +10,7 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
   * Router DSL
 
 3. ¿Se puede tener conexiones al Internet solamente instalado un router neutro?
-  * No ya que el router neutro no nos proporciona acceso al red público.
+  * No, las companía de telefónico normalmente nos instala la red mediante cable coaxial o fibra óptica (según el cable que nos instala desde calle). Y en un router neutro su interfaz wan solo soporta el cable rj45 que normalmente lo conecamos al interfaz lan del router DSL para obtener conexión al red pública.
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
   * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router DSL
