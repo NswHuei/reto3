@@ -15,9 +15,13 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
   * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router DSL
 
-5. ¿Por qué nos interesa instalar un router neutro?
-  * Nos proporciona un mejor rendimiento del WIFI: mayor cobertura, mayor número de equipos conectado...
-  * Nos permite configurarlo más cerca a nuestro uso(en rl router DSL no hay tanto opción).
+5. ¿Qué nos mejora instalando un router neutro?Respuesta abierta.
+Ej:
+  * Nos proporciona un mejor rendimiento del WIFI: "mayor cobertura", mayor número de equipos conectado...
+  * Nos permite configurarlo más cerca a nuestro uso (en rl router DSL no hay tanto opción).
   * Mayor nivel de seguridad, como tiene más opción de configuración podemos configurarlo con más seguridad (requiere un mayor nivel de redes).
+  * Como todos los router nos permite segmentar la red, si te interesa algunos equipos no están en el mismo segmento de red con los otros para más control. Por ejemplo crear una red SAN.
+  * No permite hacer más filtrado de macs.
+  * Según el fabricante del router nos proporciona unos software para mejorar la experiencia de uso.
 
 [Volver al actividad](ActividadRQ5.1.md)  |  [Ir al siguiente actividad](ActividadRQ5.2.md)  | [Volver al Página de inicio](inicio.md)
