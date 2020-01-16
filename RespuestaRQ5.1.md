@@ -14,6 +14,7 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
   * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router DSL
+  ![Reinicia la página para volver a cargar el imagen](imagen/router2.png)
 
 5. ¿Qué nos mejora instalando un router neutro?Respuesta abierta.
   * Nos proporciona un mejor rendimiento del WIFI: "mayor cobertura", mayor número de equipos conectado...
