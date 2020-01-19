@@ -1,4 +1,4 @@
-## ¿Qué es un router neutro?¿En qué se diferencia con un router DSL?
+## ¿Qué es un router neutro y en qué mejora instalando uno?
 ![Reinicia la página para volver a cargar el imagen](imagen/cable.png)
 
 Estas son los tipos de cableado de redes que más utilizamos.
