@@ -6,7 +6,7 @@ Estas son los tipos de cableado de redes que más utilizamos.
 
 1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router (en la interfaz WAN)?
 
- * Con el Cable coaxial o fibra óptica según la conpanía. Anteriormente usaban Router ADSL con el conector RJ11 pero ahora ya no la usan.
+ * Con el cable coaxial o fibra óptica según la conpanía.
 
 2. ¿Podemos conectar este tipo de cable a un router neutro?
 
