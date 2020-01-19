@@ -24,6 +24,6 @@ Como podeis ver las opciones de configuración son bastante menos que en un rout
 ![imagen de configuración del router vodafone7](imagen/vodafone7.png)
 
 Una vez terminado no te olvides salvarlo para aplicar los cambios.
-
+Si queréis saber más informaciones sobre los recomendaciones de seguridad he os he propuesto puedes ver esta actividad "[Hackear la contraseña wifi](https://nswhuei.github.io/hack-wifi/)"
 
 [Volver al Página de inicio](inicio.md)
