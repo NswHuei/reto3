@@ -16,7 +16,7 @@ Estas son los tipos de cableado de redes que más utilizamos.
   * No, las companía de telefónico normalmente nos instala la red mediante cable coaxial o fibra óptica (según el cable que nos instala desde calle). Y en un router neutro su interfaz wan solo soporta el cable rj45 que normalmente lo conecamos al interfaz lan del router DSL para obtener conexión al red pública.
 
 4. ¿Cómo conectamos el router neutro con el router por cable para que tiene acceso al red público?
-  * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router DSL
+  * Conectamos con un cable RJ45 a interfaz WAN del router neutro e interfaz LAN del router por cable coaxial.
   ![Reinicia la página para volver a cargar el imagen](imagen/router2.png)
 
 5. ¿Qué nos mejora instalando un router neutro?Respuesta abierta.
