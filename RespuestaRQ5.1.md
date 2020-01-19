@@ -4,13 +4,15 @@
 Estas son los tipos de cableado de redes que más utilizamos.
 
 
-1. ¿Con qué cable se conecta al interfaz WAN en un router DSL?¿Y en un router neutro?
- * Con el Cable coaxial. Con el cables RJ45
+1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router?
 
-2. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Que tipo de router crees que es?
-  * Router DSL
+ * Con el Cable coaxial.
 
-3. ¿Se puede tener conexiones al Internet solamente instalado un router neutro?
+2. ¿Podemos conectar este tipo de cable a un router neutro (fijando la image)?
+
+  * No, ya que no son iguales los conectores de cada cable.
+
+3. 3. ¿Se puede tener conexiones al Internet si solamente tenemos instalado un router neutro?
   * No, las companía de telefónico normalmente nos instala la red mediante cable coaxial o fibra óptica (según el cable que nos instala desde calle). Y en un router neutro su interfaz wan solo soporta el cable rj45 que normalmente lo conecamos al interfaz lan del router DSL para obtener conexión al red pública.
 
 4. ¿Cómo conectamos el router neutro con el router DSL para que tiene acceso al red público?
