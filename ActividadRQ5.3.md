@@ -19,6 +19,10 @@ En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, t
 Como podeis ver las opciones de configuración son bastante menos que en un router neutro. En un router neutro tenemos un control total de él y en un router DSL solo los que nos permite el comercial.
 ![imagen de configuración del router vodafone4](imagen/vodafone14.png)
 
+![imagen de configuración del router vodafone6](imagen/vodafone6.png)
+
+![imagen de configuración del router vodafone7](imagen/vodafone7.png)
+
 Una vez terminado no te olvides salvarlo para aplicar los cambios.
 
 
