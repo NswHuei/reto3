@@ -1,11 +1,11 @@
-## Configurar router de tu casa
+## Configurar router de tu casa.
 
 Tras los actividades anteriores ya sabemos la configuración del router ahora vamos a probarlo configurando el router de tu casa. Por ejemplo el tiempo de concesión, el pool, nombre del señal WLAN(ESSID),etc.
-**No cambia los configuraciones** que no te aclaras, podría causar graves problemas
+**No cambia los configuraciones** que no te aclaras, podría causar graves problemas.
 
-### Ejemplo
+### Ejemplo:
 ![imagen de configuración del router vodafone1](imagen/vodafone1.png)
-Lleva un resumen de equipos conectados a tu router y con qué método. Además nos permite renombrar los equipos(del resumen) para poder localizar fácilmente.
+En la página web de mi router lleva un resumen de los equipos conectados a tu router organizado por tipo de conexión. Además nos permite renombrar los equipos(del resumen) para poder localizar fácilmente.
 
 En apartado de WIFI nos permite configurar los servicios de WIFI. Para que nos aparezca más opciones entramos al modo experto(derecha arriba de la página).
 ![imagen de configuración del router vodafone2](imagen/vodafone2.png)
