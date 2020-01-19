@@ -1,5 +1,10 @@
-# Configuración de Router.
+## Índice
 
-Unas actividades para configurar los routers inalámbrico y la diferencia entre un **router DSL** con el **router neutro**.
+Es un índice temporal para el trabajo.
 
-Para acceder a las actividades clic [Aquí](https://nswhuei.github.io/reto3/inicio)
+* [Diferencia entre Routers](ActividadRQ5.1.md)
+
+* [Configuración de router neutro](ActividadRQ5.2.md)
+
+* [Configurar nuestro router](ActividadRQ5.3.md)
+
