@@ -33,6 +33,4 @@ También podemos añadir un filtro de mac (en mi router hasta 16 equipos). Tiene
 
 Podemos añadir equipos con el mac o seleccionas equipos que ya está conectado a la red WIFI. Una vez terminado no te olvides salvarlo para aplicar los cambios.
 
-Si queréis saber más informaciones sobre los recomendaciones de seguridad he os he propuesto puedes ver esta actividad "[Hackear la contraseña wifi](https://nswhuei.github.io/hack-wifi/)"
-
 [Volver al Página de inicio](inicio.md)
