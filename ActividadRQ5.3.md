@@ -5,7 +5,7 @@ Tras los actividades anteriores ya sabemos la configuración del router ahora va
 
 ### Ejemplo:
 ![imagen de configuración del router vodafone1](imagen/vodafone11.png)
-En la página web de mi router lleva un resumen de los equipos conectados a tu router organizado por tipo de conexión. Además nos permite renombrar los equipos(del resumen) para poder localizar fácilmente.Para que nos aparezca más opciones entramos al modo experto (en el parte derecha arriba de la página).
+En la página web de mi router lleva un resumen de los equipos conectados a tu router organizado por tipo de conexión. Además nos permite renombrar los equipos para poder localizarla fácilmente.Para que nos aparezca más opciones entramos al modo experto (en el parte derecha superior de la página).
 
 ![imagen de configuración del router vodafone2](imagen/vodafone12.png)
 En configuración-LAN configuramos los parámetros del router.
