@@ -1,6 +1,6 @@
-## Índice
+## Encaminador inlámbrico o Router Neutro.
 
-Es un índice temporal para el trabajo.
+
 
 * [Diferencia entre Routers](ActividadRQ5.1.md)
 
