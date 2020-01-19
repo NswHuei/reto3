@@ -3,7 +3,7 @@
 
 Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/foros/internet-telefonia-movil/temas/2930289-router-neutro-que-para-sirve)
 
-1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router?
+1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router (en la interfaz WAN)?
 
 2. ¿Podemos conectar este tipo de cable a un router neutro (fijando la image)?
 
