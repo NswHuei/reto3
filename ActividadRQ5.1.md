@@ -9,7 +9,7 @@ Si necesitas ayudas puedes consultarlo a este [página](https://www.rankia.com/f
 
 3. ¿Se puede tener conexiones al Internet si solamente tenemos instalado un router neutro?
 
-4. ¿Cómo conectamos el router neutro con el router por cable coaxial para que tiene acceso al red público?
+4. ¿Cómo conectamos el router neutro con el router por cable para que tiene acceso al red público?
 
 5. ¿Qué nos mejora instalando un router neutro?Respuesta abierta.
 
