@@ -4,7 +4,7 @@
 Estas son los tipos de cableado de redes que más utilizamos.
 
 
-1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router?
+1. Cuando contratamos a una linea de Internet nos instala un router en nuestro casa.¿Con qué tipo de cabelado se conecta al router (En el WAN)?
 
  * Con el Cable coaxial.
 
