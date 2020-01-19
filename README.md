@@ -5,3 +5,5 @@
 Al final del todo podéis hacer esta práctica para configurar vuestro router con algunos recomendaciones de seguridad para uso doméstico
 [Configurar nuestro router](ActividadRQ5.3.md).
 
+Si queréis saber más informaciones sobre los recomendaciones de seguridad he os he propuesto puedes ver esta actividad "[Hackear la contraseña wifi](ActividadRQ5.1.md)"
+
