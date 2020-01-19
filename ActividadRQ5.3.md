@@ -26,23 +26,13 @@ En configuración recomiendo que cambie los nombres (ESSID) y contraseña de amb
 ![imagen de configuración del router vodafone6](imagen/vodafone6.png)
 Es un función que nos ayuda a conectar otros dispositivos inalámbricos de forma muy sencilla. Pero lleva una vulnerabilidad en las seguridades WIFI, lo recomiendo que lo desactives.
 
-![imagen de configuración del router vodafone7](imagen/vodafone7.png)
+![imagen de configuración del router vodafone7](imagen/vodafone17.png)
 También podemos añadir un filtro de mac (en mi router hasta 16 equipos). Tiene dos modo de funcionamiento:
  * **Permitir** permite los equipos con mac que estén en la lista conecta al red WIFI.
  * **Denegar** denega los equipos con mac que estén en la lista conecta al red WIFI.
-Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
 
+Podemos añadir equipos con el mac o seleccionas equipos que ya está conectado a la red WIFI. Una vez terminado no te olvides salvarlo para aplicar los cambios.
 
-
-
-
-
-
-
-
-
-
-Una vez terminado no te olvides salvarlo para aplicar los cambios.
 Si queréis saber más informaciones sobre los recomendaciones de seguridad he os he propuesto puedes ver esta actividad "[Hackear la contraseña wifi](https://nswhuei.github.io/hack-wifi/)"
 
 [Volver al Página de inicio](inicio.md)
