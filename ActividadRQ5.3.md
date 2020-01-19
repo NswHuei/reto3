@@ -21,23 +21,26 @@ Una cosa que nos deja en un router y no a los puntos de acceso es compartir cont
 ![imagen de configuración del router vodafone5](imagen/vodafone15.png)
 En apartado de WIFI nos indicará qué tipo de estándares WIFI podemos usar para conectar los dispositivos móviles.
 
-En configuración recomiendo que cambie los nombres (ESSID) y contraseña de ambas anchosde bandas2,4GHz o 5GHz) con cifrado WPA+WPA2 (Si tu dispositivo no soporta cifrado WPA2 usan WPA automáticamente). Las canales dejamos en auto o según la interferencia de redes alrededor de tu router (para más información consulta en [medir_cobertura](https://serrogard.github.io/Se-al-WiFi/)).
-
-
-También podemos añadir un filtro de mac (hasta 16 equipos). "Permitir" permite el acceso al red **solamente** los equipos que están en la lista (conectado con WIFI). "Denegar" no permite el acceso al red de los equipos cuyo mac que están en la lista. Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
-
-En configuración-LAN configuramos el ip del router, y el servidor DHCP (pool, timepo de confeción e IP estático o reservado)
-Como podeis ver las opciones de configuración son bastante menos que en un router neutro. En un router neutro tenemos un control total de él y en un router DSL solo los que nos permite el comercial.
-
-
-
-
-
-
+En configuración recomiendo que cambie los nombres (ESSID) y contraseña de ambas anchosde bandas2,4GHz o 5GHz) con cifrado WPA+WPA2 (Si tu dispositivo no soporta cifrado WPA2 usan WPA automáticamente). Las canales dejamos en auto o según la interferencia de redes alrededor de tu router (para más información consulta en [Comprobar señales WIFI](https://serrogard.github.io/Se-al-WiFi/)).
 
 ![imagen de configuración del router vodafone6](imagen/vodafone6.png)
+Es un función que nos ayuda a conectar otros dispositivos inalámbricos de forma muy sencilla. Pero lleva una vulnerabilidad en las seguridades WIFI, lo recomiendo que lo desactives.
 
 ![imagen de configuración del router vodafone7](imagen/vodafone7.png)
+También podemos añadir un filtro de mac (en mi router hasta 16 equipos). Tiene dos modo de funcionamiento:
+ * **Permitir** permite los equipos con mac que estén en la lista conecta al red WIFI.
+ * **Denegar** denega los equipos con mac que estén en la lista conecta al red WIFI.
+Podemos añadir equipos con el mac, si ya está conectado al red nos facilita la introducción de mac.
+
+
+
+
+
+
+
+
+
+
 
 Una vez terminado no te olvides salvarlo para aplicar los cambios.
 Si queréis saber más informaciones sobre los recomendaciones de seguridad he os he propuesto puedes ver esta actividad "[Hackear la contraseña wifi](https://nswhuei.github.io/hack-wifi/)"
