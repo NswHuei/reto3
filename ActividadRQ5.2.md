@@ -4,9 +4,7 @@ Sabiendo los beneficios que nos proporciona un router neutro hemos instalado uno
 
 Para ello podemos entrar al página de configuración o instalar el programa de configuración. Podemos consultar al manual (para saber que programa a instalar) o ver etiqueta que está parte trasera del router (para saber como acceder al página de configuración).
 
-<p align="center">
-<img align="center" src="https://github.com/NswHuei/reto3/blob/master/imagen/conf1.png">
-</p>
+![imagen de configuración del router-0](imagen/conf1.png)
 
 En esta práctica he usado el router neutro TP-LINK TL-WR841N como se vé en la etiqueta. También está puesto la contraseña por defecto y os aconsejo una vez dentro cambiarlo.
 
