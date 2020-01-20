@@ -21,7 +21,7 @@ Una cosa que nos deja en un router y no a los puntos de acceso es compartir cont
 ![imagen de configuración del router vodafone5](imagen/vodafone15.png)
 En apartado de WIFI nos indicará qué tipo de estándares WIFI podemos usar para conectar los dispositivos móviles.
 
-En configuración recomiendo que cambie los nombres (ESSID) y contraseña de ambas anchosde bandas2,4GHz o 5GHz) con cifrado WPA+WPA2 (Si tu dispositivo no soporta cifrado WPA2 usan WPA automáticamente). Las canales dejamos en auto o según la interferencia de redes alrededor de tu router (para más información consulta en [Comprobar señales WIFI](https://serrogard.github.io/Se-al-WiFi/)).
+En configuración recomiendo que cambie los nombres (ESSID) y contraseña de ambas anchosde bandas2,4GHz o 5GHz) con cifrado WPA+WPA2 (Si tu dispositivo no soporta cifrado WPA2 usan WPA automáticamente). Las canales dejamos en auto o según la interferencia de redes alrededor de tu router (para más información consulta en [Comprobar señales WIFI](https://serrogard.github.io/Se-al-WiFi/)).Si desactiva emitir ESSID otros equipos no podrán encontrar a tu wifi, para conectar la tiene que poner el ESSID manualmente.
 
 ![imagen de configuración del router vodafone6](imagen/vodafone6.png)
 Es un función que nos ayuda a conectar otros dispositivos inalámbricos de forma muy sencilla. Pero lleva una vulnerabilidad en las seguridades WIFI, lo recomiendo que lo desactives.
