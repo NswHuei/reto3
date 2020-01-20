@@ -33,4 +33,4 @@ También podemos añadir un filtro de mac (en mi router hasta 16 equipos). Tiene
 
 Podemos añadir equipos con el mac o seleccionas equipos que ya está conectado a la red WIFI. Una vez terminado no te olvides salvarlo para aplicar los cambios.
 
-[Volver al Página de inicio](inicio.md)
+[Volver al Página de inicio](https://nswhuei.github.io/reto3/)
